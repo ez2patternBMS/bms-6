@@ -1,0 +1,45 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 3
+#GENRE Intelligence(14-SuperBusy)
+#TITLE 死ぬほど忙しい人のためのsearoad tracks =side blue=
+#ARTIST sasakure.UK / obj:2y
+#BPM 148
+#PLAYLEVEL 1
+#RANK 3
+#TOTAL 119
+#STAGEFILE 
+
+#WAV0A cym2.wav
+#WAV6A cym.wav
+#WAV7E last.wav
+#WAV83 kick.wav
+#WAV90 br.wav
+
+#BMP00 miss.bmp
+#BMP01 a00000.bmp
+#BMP44 a00000++.bmp
+#BMP45 a00000+++.bmp
+#BMP46 a00000++++.bmp
+#BMP47 a00000+++++.bmp
+
+
+
+
+#BANNER searoad_banner.bmp
+
+
+
+*---------------------- MAIN DATA FIELD
+
+#00001:00
+#00001:00
+#00001:90
+
+#00101:7E
+#00104:01440144014401440144014401440144014401440144014401440144454647FF
+#00111:83
+#00119:6A
+#00126:0A
+
